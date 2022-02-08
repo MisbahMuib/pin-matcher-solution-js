@@ -1,4 +1,4 @@
-# pin-matcher-solution-js
+# pin matcher
 
 Create a Awesome Pin Matcher Using HTML & CSS & Javascript.
 
